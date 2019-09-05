@@ -3,7 +3,7 @@
   "short_name": "PWA",
   "background_color": "#fc980c",
   "icons": [{
-      "src": "https://umamichi.github.io/pwa-sample/icon-256.png",
+      "src": "./icon-256.png",
       "sizes": "256x256",
       "type": "image/png"
     },{
