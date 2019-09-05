@@ -3,7 +3,7 @@
   "short_name": "PWA",
   "background_color": "#fc980c",
   "icons": [{
-      "src": "./icon-256.png",
+      "src": "https://umamichi.github.io/pwa-sample/icon-256.png",
       "sizes": "256x256",
       "type": "image/png"
     },{
@@ -11,6 +11,6 @@
       "sizes": "192x192",
       "type": "image/png"
     }],
-  "start_url": "./?utm_source=homescreen",
+  "start_url": "https://umamichi.github.io/pwa-sample/?utm_source=homescreen",
   "display": "standalone"
 }
